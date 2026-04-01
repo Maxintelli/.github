@@ -1,0 +1,2 @@
+# .github
+Maxintelli organization profile
